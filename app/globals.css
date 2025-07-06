@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{
+  font-family: Outfit;
+}
+
+:root {
+  --font-sans: "Outfit", sans-serif;
+  --font-serif: "Ovo", serif;
+}
